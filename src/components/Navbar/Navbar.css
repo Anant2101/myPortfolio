@@ -1,0 +1,10 @@
+/* Desktop Navigation - hide on mobile */
+.desktop-only {
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .desktop-only {
+    display: none !important;
+  }
+}
