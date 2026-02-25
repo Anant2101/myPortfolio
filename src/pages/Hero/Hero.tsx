@@ -35,7 +35,7 @@ const Hero = () => {
           <h1 className="hero-title">
             Hi, I'm <span className="highlight">Anant</span>
           </h1>
-          <h2 className="hero-subtitle">  React Developer  | MERN Stack Developer</h2>
+          <h2 className="hero-subtitle">  React Developer  |  MERN Stack Developer</h2>
           <p className="hero-description">
             I build modern, responsive web applications with clean code and great user experiences.
             Passionate about creating innovative solutions that make a difference.
