@@ -35,7 +35,7 @@ const Loader = ({ onLoadingComplete }: LoaderProps) => {
           <div className="loader-glow"></div>
         </div>
         
-        <p className="loader-bottom-text">FULLSTACK DEVELOPER</p>
+        <p className="loader-bottom-text">MERN STACK DEVELOPER</p>
       </div>
     </div>
   );
